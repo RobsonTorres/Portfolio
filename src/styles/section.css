@@ -1,0 +1,72 @@
+/* Estilização do BannerSection */
+
+.banner__section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6.25rem;
+}
+
+.banner__image {
+    width: 300px;
+}
+
+.button__margin {
+    margin-top: 1.875rem;
+}
+
+/* Estilização do TechSection e TechCard */
+
+.technology__title {
+    margin: 100px 0 20px 0;
+}
+
+.technology__div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.technology__icons-title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    padding: 15px 25px;
+    margin-bottom: 15px;
+    width: 200px;
+    font-size: 15px;
+}
+
+/* Estilização do TechSection e TechCard*/
+
+.project__card {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+    box-sizing: border-box;
+}
+
+.project__cards {
+    border: solid 1px var(--color-border);
+    border-radius: 15px;
+    padding: 15px;
+    width: 40vh;
+    margin: 20px 0;
+}
+
+.title__Icon-gitHub {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gitHub__icon {
+    width: 30px;
+}
+
+.paragraph__gitHub {
+    margin: 10px 0;
+}

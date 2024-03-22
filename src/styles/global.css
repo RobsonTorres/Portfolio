@@ -1,0 +1,16 @@
+:root {
+    --font-primary: "Inter", sans-serif;
+
+    --color-black: #000;
+    --color-white: #fff;
+    
+    --color-primary: #6880FF;
+    --color-primary-Hover: #7C91FF;
+    --color-border: rgba(255, 255, 255, 0.5);
+}
+
+body {
+    background-color: var(--color-black);
+    color: var(--color-white);
+    margin: 0 10%;
+}

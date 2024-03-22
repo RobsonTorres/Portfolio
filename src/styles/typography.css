@@ -1,0 +1,32 @@
+.title1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 10px 0 20px 0;
+    font-family: var(--font-primary);
+    line-height: 2.5rem;
+    word-wrap: break-word;
+}
+
+.title2 {
+    font-family: var(--font-primary);
+}
+
+.title3 {
+    font-family: var(--font-primary);
+    font-size: 0.8125rem;
+    
+}
+
+
+.label {
+    color: var(--color-primary);
+    font-size: 0.9375rem;
+    font-weight: 100;
+    font-family: var(--font-primary);
+
+}
+
+.link {
+    font-family: var(--font-primary);
+    font-size: 0.8125rem;
+}

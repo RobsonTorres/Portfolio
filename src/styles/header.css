@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    align-items: center;
+}
+
+.header__anchors {
+    color: var(--color-white);
+}
+
+.anchor-about {
+    margin-left: 20%;
+}
+
+.anchor-projects {
+    margin-right: 20%;
+}
+
+.anchor-stack {
+    margin: 0 5px;
+}

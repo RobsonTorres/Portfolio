@@ -1,0 +1,22 @@
+.footer {
+    padding: 20px 0;
+}
+
+.footer p {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.footer div {
+    display: flex;
+    gap: 15px;
+}
+
+.footer hr {
+    margin: 25px 0;
+}
